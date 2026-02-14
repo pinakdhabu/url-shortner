@@ -235,5 +235,7 @@ mongodb://mongo:27017/urlshortener
 ## 👨‍💻 Author
 
 **Pinak Dhabu**
+
 Cloud & DevOps Enthusiast
+
 Containerized Application Deployment on AWS
