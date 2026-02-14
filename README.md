@@ -3,7 +3,7 @@
 > Containerized URL Shortener Application deployed on AWS EC2 using Docker & MongoDB
 > Built & Deployed by **Pinak Dhabu**
 
-LIVE LINK: (URL Shortner)[http://13.233.76.226/]
+🌐 Live Link : [URL Shortner](http://13.233.76.226/)
 ---
 
 ## 📌 Project Overview
